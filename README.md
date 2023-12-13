@@ -13,6 +13,6 @@
 - Obter o endereço da máquina: `ifconfig`, como já estamos no modo bridge, ele já sugere nosso ip, então basta dar enter.
 - Selecionei o twitter
 
-![[Template do twitter criado no setoolkit.png]]
+![](resultado.png)
 ### Resultado da Captura
-![[Resultado da captura.png]]
+![](templateTwitter.png)

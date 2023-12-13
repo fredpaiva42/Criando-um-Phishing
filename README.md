@@ -12,7 +12,7 @@
 - Selecionar outro método de ataque: `Web templates`
 - Obter o endereço da máquina: `ifconfig`, como já estamos no modo bridge, ele já sugere nosso ip, então basta dar enter.
 - Selecionei o twitter
-
-![](resultado.png)
-### Resultado da Captura
 ![](templateTwitter.png)
+
+### Resultado da Captura
+![](resultado.png)
